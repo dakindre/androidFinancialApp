@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_dark_credit">#FFF99D1C</color>
+    <color name="accent_light_credit">#FFF9CF1C</color>
+    <color name="accent_dark_budget">#FF69992F</color>
+    <color name="accent_light_budget">#FFBCD631</color>
+    <color name="accent_default">#FF222222</color>
+</resources>

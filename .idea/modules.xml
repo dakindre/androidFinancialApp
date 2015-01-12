@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Navigation App/Navigation App.iml" filepath="$PROJECT_DIR$/Navigation App/Navigation App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" filepath="$PROJECT_DIR$/libraries/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msufcu_android.iml" filepath="$PROJECT_DIR$/msufcu_android.iml" />
+    </modules>
+  </component>
+</project>
+

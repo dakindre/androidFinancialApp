@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.msufcu.navigationapp.MainActivity" >
+    <!--
+    <item android:id="@+id/action_example"
+        android:title="@string/action_example"
+        app:showAsAction="withText|ifRoom" />
+        -->
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_calculator"
+        android:title="@string/action_calculator"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_ask_an_expert"
+        android:title="@string/action_ask_an_expert"
+        android:orderInCategory="102"
+        app:showAsAction="never" />
+    <!--
+    <item android:id="@+id/action_calculator"
+        android:title="@string/action_calculator"
+        android:orderInCategory="101"
+        app:showAsAction="never"/>
+        -->
+</menu>
